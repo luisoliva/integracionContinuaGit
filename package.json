@@ -1,0 +1,17 @@
+{
+  "name": "integracion_continua",
+  "version": "1.0.0",
+  "description": "proyecto rapido para aprender integracion continua",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.6"
+  }
+}
